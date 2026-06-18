@@ -48,3 +48,7 @@ MySQL / Amazon RDS
 ## Skills Demonstrated
 
 AWS, EC2, RDS, ElastiCache, Docker, Kubernetes, Terraform, GitHub Actions, Cloud Migration, DevOps
+
+## Architecture Diagram
+
+![AWS Terraform Architecture](screenshots/aws-terraform-architecture.png)
